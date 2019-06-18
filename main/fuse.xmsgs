@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"Z:/cs141-ProgrammingAssignments/PA4/lab4_start/modules/mips_core/mips_core.v" Line 67: Port <arg fmt="%s" index="1">wr_ena1</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"Z:/cs141-ProgrammingAssignments/PA4/lab4_start/modules/mips_core/mips_core.v" Line 188: Port <arg fmt="%s" index="1">in101</arg> is not connected to this instance
+</msg>
+
+</messages>
+
